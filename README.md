@@ -1,11 +1,11 @@
 # QA Test Cycle – Android Apps + Websites  
 This repository contains the full test cycle for:
 
-### 📱 Android Apps
+### Android Apps
 - App Testing Service — `https://play.google.com/store/apps/details?id=com.apptestingservice`
 - EchoChat / EchoGPT — `https://play.google.com/store/apps/details?id=com.echogpt.chatapp`
 
-### 🌐 Websites
+###  Websites
 - https://echogpt.live/
 - https://apptestingservice.com/
 
