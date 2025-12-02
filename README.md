@@ -1,20 +1,51 @@
-# QA Test Cycle – Android Apps + Websites  
-This repository contains the full test cycle for:
+# QA Assignment – AppTestingService & EchoGPT
 
-### Android Apps
-- App Testing Service — `https://play.google.com/store/apps/details?id=com.apptestingservice`
-- EchoChat / EchoGPT — `https://play.google.com/store/apps/details?id=com.echogpt.chatapp`
+This repository contains the deliverables for the QA assignment:
 
-###  Websites
-- https://echogpt.live/
-- https://apptestingservice.com/
+- Android app: `com.apptestingservice`
+- Android app: `com.echogpt.chatapp`
+- Website: https://echogpt.live/
+- Website: https://apptestingservice.com/
 
-Deliverables included:
-- Test Plan / Approach  
-- 25+ Test Cases  
-- Test Execution Log  
-- Bug Reports (3 minimum)  
-- Exploratory Testing Notes  
-- Summary Report  
+The goal is to demonstrate the ability to plan, execute, and report a concise, high-quality test cycle covering:
 
-All documents are written in Markdown for clarity and easy reviewing.
+- Functional testing
+- UI/UX testing
+- Stability testing
+- Security (basic) testing
+- Accessibility testing
+- Exploratory testing
+
+All deliverables are included as Markdown files under the [`docs`](./docs) folder.
+
+## Contents
+
+- [`docs/TestPlan.md`](./docs/TestPlan.md) – Scope, devices, OS, test types, and approach  
+- [`docs/TestCases.md`](./docs/TestCases.md) – 25+ detailed test cases  
+- [`docs/TestExecutionLog.md`](./docs/TestExecutionLog.md) – Execution status of test cases  
+- [`docs/BugReports.md`](./docs/BugReports.md) – Structured bug reports (min 3)  
+- [`docs/ExploratoryTesting.md`](./docs/ExploratoryTesting.md) – Charters and findings from exploratory session  
+- [`docs/SummaryReport.md`](./docs/SummaryReport.md) – One-page summary, major issues, risks, and recommendations  
+
+## How to Use This Repo
+
+1. **Install & run** the apps:
+   - From Google Play:
+     - `com.apptestingservice`
+     - `com.echogpt.chatapp`
+   - Open the websites:
+     - https://echogpt.live/
+     - https://apptestingservice.com/
+
+2. **Execute the test cases** in [`TestCases.md`](./docs/TestCases.md).
+
+3. **Update results**:
+   - Mark `Pass/Fail/Blocked` in [`TestExecutionLog.md`](./docs/TestExecutionLog.md).
+   - For any failed case, create or update a bug in [`BugReports.md`](./docs/BugReports.md).
+
+4. **While exploring** the apps/websites freely, take notes in [`ExploratoryTesting.md`](./docs/ExploratoryTesting.md).
+
+5. **Finally**, update the one-page summary in [`SummaryReport.md`](./docs/SummaryReport.md) based on your real findings.
+
+> **Important:** Some example bugs and statuses in this repo are placeholders.  
+> Replace them with your actual observations after running the tests (crashes, UI issues, console errors, etc.).
