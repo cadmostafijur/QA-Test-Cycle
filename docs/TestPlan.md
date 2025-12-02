@@ -97,8 +97,7 @@ Testing covers functionality, UI/UX, responsiveness, security validation, and ex
 
 ---
 
-## 9. Risks & Assumptions
-### Risks
+## Limitaion
 - I user only two device for testing purpose so limited number of devices nut in bluestack emulator i use device size of ratio for testing.
 
 
