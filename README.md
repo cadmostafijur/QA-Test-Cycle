@@ -47,5 +47,3 @@ All deliverables are included as Markdown files under the [`docs`](./docs) folde
 
 5. **Finally**, update the one-page summary in [`SummaryReport.md`](./docs/SummaryReport.md) based on your real findings.
 
-> **Important:** Some example bugs and statuses in this repo are placeholders.  
-> Replace them with your actual observations after running the tests (crashes, UI issues, console errors, etc.).
