@@ -23,10 +23,9 @@ All deliverables are included as Markdown files under the [`docs`](./docs) folde
 - [`docs/TestPlan.md`](./docs/TestPlan.md) – Scope, devices, OS, test types, and approach  
 - [`docs/TestCases.md`](./docs/TestCases.md) – 25+ detailed test cases  
 - [`docs/TestExecutionLog.md`](./docs/TestExecutionLog.md) – Execution status of test cases  
-- [`docs/BugReports.md`](./docs/BugReports.md) – Structured bug reports (min 3)  
+- [`docs/BugReports.md`](./docs/BugReports.md) – Structured bug reports 
 - [`docs/ExploratoryTesting.md`](./docs/ExploratoryTesting.md) – Charters and findings from exploratory session  
-- [`docs/SummaryReport.md`](./docs/SummaryReport.md) – One-page summary, major issues, risks, and recommendations  
-
+- [`docs/SummaryReport.md`](./docs/SummaryReport.md) – One-page summary, major issues
 ## How to Use This Repo
 
 1. **Install & run** the apps:
@@ -45,5 +44,5 @@ All deliverables are included as Markdown files under the [`docs`](./docs) folde
 
 4. **While exploring** the apps/websites freely, take notes in [`ExploratoryTesting.md`](./docs/ExploratoryTesting.md).
 
-5. **Finally**, update the one-page summary in [`SummaryReport.md`](./docs/SummaryReport.md) based on your real findings.
+5. **Finally**, update the one-page summary in [`SummaryReport.md`](./docs/SummaryReport.md) based on my real findings.
 
